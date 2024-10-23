@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Post Word Count in Admin List
- * Plugin URI:  https://github.com/dietrichmd/wordpress_plugins
+ * Plugin URI:  https://github.com/vestrainteractive/post-wordcount
  * Description: Adds a column to the posts list displaying the word count of each post.
  * Version: 1.0
  * Author: Vestra Interactive
